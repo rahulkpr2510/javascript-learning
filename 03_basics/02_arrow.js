@@ -11,7 +11,7 @@ const user = {
 // user.username = "rahul"
 // user.welcomeMessage()
 
-// console.log(this); // in browser the global object is window object, so whenever we run this statement in browser it gives the window object and when we run this statement in node environment it gives empty parenthesis{}
+// console.log(this); // in browser the global object is window object, so whenever we run this statement in browser it gives the window object and when we run this statement in node environment it gives empty curly braces{}
 
 // function chai(){
 //     let username = "hitesh"
